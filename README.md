@@ -45,20 +45,14 @@
 
 **Upewnij się, że w katalogu z plikiem voiceos.py masz folder Images z animacją / Make sure you have an Images folder with the animation next to voiceos.py:
 
-VoiceOS**
----
-
-###### **│**
-
-###### **├── voiceos.py**
-
-**├── README.md
-└── Images**
----
-
-&#x20;   **├── listening-animated.gif
-    ├── listening.png
-    └── response.png
+VoiceOS/
+│
+├── voiceos.py
+├── README.md
+└── Images/
+├── listening-animated.gif
+├── listening.png
+└── response.png
 
 🔑 3. Konfiguracja / Configuration**
 ---
@@ -102,4 +96,11 @@ ENGLISH SUPPORT WARNING!!!
 
 The Python console does not operate in English. I recommend using a translator to understand the messages displayed in the console.**
 ---
+
+====================================
+
+FILES WARNING
+
+===================================
+Dostałes pliki png i gif w zestawie, utwórz do tych plików folder "Images" / You received PNG and GIF files in the set; create an "Images" folder for them.
 
